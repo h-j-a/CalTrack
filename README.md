@@ -36,6 +36,24 @@ CalTrack runs entirely in your browser — no install needed. Just open the link
 
 ---
 
+## Best Experience — Add to Home Screen
+
+CalTrack is designed to feel like a native app. For the best experience, add it to your phone's Home Screen.
+
+**iPhone (Safari):**
+1. Open the link in Safari
+2. Tap the **Share** button at the bottom
+3. Tap **"Add to Home Screen"**
+4. Tap **Add**
+
+**Android (Chrome):**
+1. Open the link in Chrome
+2. Tap the **three dot menu** in the top right
+3. Tap **"Add to Home Screen"**
+4. Tap **Add**
+
+---
+
 ## Tech Stack
 
 - HTML, CSS, JavaScript — single file app, no frameworks
@@ -56,19 +74,13 @@ No build steps needed. Just download `CalTrack.html` and open it in Safari or Ch
 3. Add your Gemini API key in Settings
 ```
 
-> Camera and API features require Safari or Chrome. Does not work in the Claude.ai preview.
+> Camera and API features require Safari or Chrome.
 
 ---
 
 ## Privacy
 
 All your meal data, goals, and logs are stored **locally in your browser** using localStorage. Nothing is sent to any server except the food photos/descriptions you send to the Gemini API for analysis. Your API key is stored only in your browser and never leaves your device.
-
----
-
-## Screenshots
-
-*Coming soon*
 
 ---
 
